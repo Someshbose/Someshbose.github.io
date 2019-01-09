@@ -9,8 +9,8 @@ baseurl: ''
 author:
   name: 'Somesh Bose'
   email: iamsomeshbose@gmail.com
-  twitter_username: someshbose
-  facebook_username: iamsomu
+  #twitter_username: someshbose
+ # facebook_username: iamsomu
   github_username:  Someshbose
   linkedin_username:  someshbose
 
