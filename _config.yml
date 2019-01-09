@@ -1,6 +1,6 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+title: Somesh Bose
+description: 'Somesh Bose - a software developer based in India'
 #url: 'http://joshgerdes.com/jekyll-uno'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
@@ -8,11 +8,11 @@ baseurl: ''
 
 author:
   name: 'Somesh Bose'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  email: iamsomeshbose@gmail.com
+  twitter_username: someshbose
+  facebook_username: iamsomu
+  github_username:  Someshbose
+  linkedin_username:  someshbose
 
 defaults:
   -
