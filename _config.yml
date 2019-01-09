@@ -2,7 +2,7 @@
 title: Jekyll-Uno
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
 url: 'http://jsomeshbose.github.io/jekyll-uno'
-baseurl: '/uno/'
+baseurl: '/uno'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
